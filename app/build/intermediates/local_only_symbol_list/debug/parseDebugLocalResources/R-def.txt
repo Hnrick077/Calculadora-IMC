@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color red
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnCalcular
+id edittext_altura
+id edittext_peso
+id main
+id textview_classificação
+id textview_result
+layout activity_main
+layout activity_result
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string menor_que_18_5_abaixo_do_peso_0
+string message
+string message_classificacao
+style Base.Theme.MeuPrimeiroProjeto
+style Theme.MeuPrimeiroProjeto
+xml backup_rules
+xml data_extraction_rules
